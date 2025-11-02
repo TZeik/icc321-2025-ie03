@@ -1,13 +1,45 @@
-# Informe de investigación 3: Algoritmo de Regresión Lineal para estimar
+# 🧮 Algoritmo de Regresión Lineal para Estimar
 
-Hola chicos,
+## 📘 Informe de Investigación 3  
+**Materia:** Inteligencia de Negocios 
+**Tema:** Estimación usando Regresión Lineal  
 
-En esta actividad continuarán estudiando de manera independiente acerca de la segunda técnica predictiva: Estimación. Para esto deben revisar las diapositivas que sobre dicha técnica aparecen en los materiales didácticos de esta unidad e investiguen sobre el tema en el libro Data Mining: Practical Machine Learning Tools and Techniques, indicado en nuestra bibliografía. Tienen también esta unidad un material con un ejemplo de un problema de regresión lineal múltiple.
+**Autores:**  
+- Randy Alexander Germosén Ureña *(1013-4707)*  
+- Fernando Almonte Delgado *(1015-7628)*  
 
-Una vez revisen esto, sugiero ver estos tres videos (aunque pueden sentirse libres de consultar fuentes adicionales):
+---
 
-Para poner en práctica lo repasado quiero que creen un modelo de regresión lineal que sobre el dataset student_exam_regression.csv, que estime la puntuación en un examen de un estudiante, basado en sus horas de estudio y sus horas de sueño.
+## 🎯 Objetivo del Proyecto
+El propósito de este trabajo es aplicar la **Regresión Lineal** como técnica de estimación para predecir la **puntuación en un examen** de un estudiante en función de dos variables predictoras:
+- Horas de estudio  
+- Horas de sueño  
 
-Deben realizar análisis exploratorio de todas los atributos del dataset, realizar los gráficos necesarios para su mejor comprensión y mostrar todas las instrucciones de creación del modelo, así como sus métricas de desempeño en un notebook de Jupyter.
- 
-Suba su notebook de Jupyter bien estructurado y rotulado como respuesta a esta asignación.
+A través de este modelo, se busca analizar cómo estos factores influyen en el desempeño académico y evaluar la precisión del modelo predictivo mediante métricas de desempeño.
+
+---
+
+## 📂 Dataset Utilizado
+**Archivo:** `student_exam_regression.csv`
+
+## 🧠 Metodología
+
+El trabajo se realizó siguiendo los pasos del proceso de minería de datos:
+
+---
+
+## 📊 Resultados Esperados
+
+
+---
+
+## 🧩 Herramientas Utilizadas
+- **Python 3.11**
+- **Jupyter Notebook**
+- **Librerías principales:**
+  - `pandas` – Manejo y análisis de datos
+  - `numpy` – Cálculos numéricos
+  - `matplotlib` y `seaborn` – Visualización de datos
+  - `scikit-learn` – Implementación del modelo de regresión lineal y métricas
+
+---
